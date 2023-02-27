@@ -1,0 +1,21 @@
+{
+  "name": "scrum_03",
+  "version": "1.0.0",
+  "description": "e2e cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "scrum_app"
+  ],
+  "author": "ksenijaZlatic",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
